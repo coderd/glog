@@ -1,2 +1,2 @@
 # glog
-A log package for Go language.
+A log package for the Go language.
